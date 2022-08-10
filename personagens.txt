@@ -2,4 +2,7 @@ Darth Vader
 Obi Wan
 Yoda
 Palpatine
+Han Solo
 Jabba The Hutt
+
+
