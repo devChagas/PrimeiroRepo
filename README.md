@@ -1,6 +1,5 @@
 # Tutorial de Primeiro Repositório
 
-![C:\Users\gabriel.chagas\Pictures\GitHub.jpg]
+![./GitHub.jpg]
 
-Este repositório é apenas um tutorial para reaprender a
-usar Git
+Este repositório é apenas um tutorial para reaprender a usar Git
