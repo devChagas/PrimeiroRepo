@@ -2,4 +2,3 @@ Darth Vader
 Obi Wan
 Yoda
 Palpatine
-John
