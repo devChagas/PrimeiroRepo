@@ -5,4 +5,7 @@ Palpatine
 Han Solo
 Jabba The Hutt
 
+Rey
+Finn
+
 
