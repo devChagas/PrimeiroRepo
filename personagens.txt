@@ -2,7 +2,6 @@ Darth Vader
 Obi Wan
 Yoda
 Palpatine
-<<<<<<< HEAD
 Han Solo
 Jabba The Hutt
 
