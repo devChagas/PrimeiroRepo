@@ -10,7 +10,5 @@ Finn
 Kylo Ren
 Poe Dameron
 
-Gabriel
-Guilherme
-
+General Hux
 
